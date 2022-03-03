@@ -1,1 +1,1 @@
-web: gunicorn socialmedia-app-test.wsgi
+web: gunicorn socialnetwork.wsgi
